@@ -1,3 +1,3 @@
 # UnityAscension
 
-Les scripts utilisées pour mon jeu vidéo.
+Les scripts utilisés pour mon jeu vidéo.
